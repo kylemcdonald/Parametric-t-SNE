@@ -2,4 +2,6 @@ mnist/*
 .*
 octave-workspace
 *.npy
-plotter/
+plotter*
+*.h5
+*.json
