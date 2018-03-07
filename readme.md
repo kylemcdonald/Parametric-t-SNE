@@ -1,4 +1,4 @@
-#Parametric t-SNE
+# Parametric t-SNE
 
 Laurens Van Der Maaten's [parametric implementation](https://lvdmaaten.github.io/publications/papers/AISTATS_2009.pdf) of t-SNE.
 
